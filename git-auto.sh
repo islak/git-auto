@@ -21,7 +21,7 @@ git add .
 echo "Committing changes..."
 git commit -m "$COMMIT_MESSAGE"
 
-# Push changes to the remote repository 
+# Push changes to the remote repository  
 echo "Pushing changes..."
 git push
 
